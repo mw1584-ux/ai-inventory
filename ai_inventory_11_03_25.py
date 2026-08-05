@@ -22,33 +22,49 @@ import seaborn as sns
 
 # Read in 2023 AI use case inventory converted into excel file from https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory/blob/main/data/2023_consolidated_ai_inventory_raw.csv
 file_name = "./inventories/2023_consolidated_ai_inventory_raw.xlsx"
-inventory_2023 = pd.read_excel(file_name, header=1)
+inventory_2023 = pd.read_excel(file_name, header=1, keep_default_na=False)
 
 
 # Read in 2024 AI use case inventory from https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory/blob/main/data/2024_consolidated_ai_inventory_raw_v2.xls
 file_name = "./inventories/2024_consolidated_ai_inventory_raw_v2.xls"
-inventory_2024 = pd.read_excel(file_name, header=0)
-inventory_2024["Use Case Topic Area"] = inventory_2024["Use Case Topic Area"].fillna("None")
-inventory_2024["Is the AI use case rights-impacting, safety-impacting, both, or neither?"] = inventory_2024["Is the AI use case rights-impacting, safety-impacting, both, or neither?"].fillna("None")
+inventory_2024 = pd.read_excel(file_name, header=0, keep_default_na=False)
+# inventory_2024["Use Case Topic Area"] = inventory_2024["Use Case Topic Area"].fillna("None")
+# inventory_2024["Is the AI use case rights-impacting, safety-impacting, both, or neither?"] = inventory_2024["Is the AI use case rights-impacting, safety-impacting, both, or neither?"].fillna("None")
 
 # Read in 2025 AI use case inventory from https://github.com/ombegov/2025-Federal-Agency-AI-Use-Case-Inventory/blob/main/Data/2025_individually_reported_AI_use_cases.xlsx
 file_name = "./inventories/2025_individually_reported_AI_use_cases.xlsx"
-inventory_2025 = pd.read_excel(file_name, header=1)
-inventory_2025["Use Case Topic Area"] = inventory_2025["Use Case Topic Area"].fillna("None")
+inventory_2025 = pd.read_excel(file_name, header=1, keep_default_na=False)
+# inventory_2025["Use Case Topic Area"] = inventory_2025["Use Case Topic Area"].fillna("None")
+# inventory_2025["Is the AI use case high-impact?"] = inventory_2025["Is the AI use case high-impact?"].fillna("None")
 
-# Clean up dataframes: strip leading/trailing whitespace from all string values and column names
+# Clean up dataframes: remove nan values, strip leading/trailing whitespace from all string values and column names
+inventory_2023 = inventory_2023.replace(r'^\s*$', np.nan, regex=True)
+inventory_2024 = inventory_2024.replace(r'^\s*$', np.nan, regex=True)
+inventory_2025 = inventory_2025.replace(r'^\s*$', np.nan, regex=True)
 inventory_2023 = inventory_2023.map(lambda x: x.strip() if isinstance(x, str) else x)
 inventory_2024 = inventory_2024.map(lambda x: x.strip() if isinstance(x, str) else x)
 inventory_2025 = inventory_2025.map(lambda x: x.strip() if isinstance(x, str) else x)
+inventory_2023 = inventory_2023.replace(["N/A", "NA"], "Not Applicable")
+inventory_2024 = inventory_2024.replace(["N/A", "NA"], "Not Applicable")
+inventory_2025 = inventory_2025.replace(["N/A", "NA"], "Not Applicable")
+inventory_2023.fillna("None", inplace=True)
+inventory_2024.fillna("None", inplace=True)
+inventory_2025.fillna("None", inplace=True)
 inventory_2023.columns = inventory_2023.columns.str.strip()
 inventory_2024.columns = inventory_2024.columns.str.strip()
 inventory_2025.columns = inventory_2025.columns.str.strip()
 
 """Count the number of use cases in 2023, 2024, and 2025."""
-
 print(len(inventory_2023))
 print(len(inventory_2024))
 print(len(inventory_2025))
+
+"""Temporary code to determine whether certain fields correspond to data subsets."""
+# inventory_2025_not_fd_hi = inventory_2025[~((inventory_2025["Stage of Development"].str.startswith(("d) Retired", "c) Deployed"))) &
+# (inventory_2025["Is the AI use case high-impact?"].isin(["a) High-impact", "b) Presumed high-impact, but determined not high impact"])))]
+# inventory_2025_final = inventory_2025_not_fd_hi.loc[:, inventory_2025_not_fd_hi.notna().any()]
+# print(inventory_2025_final.columns)
+# print(inventory_2025_final.shape)
 
 """Definitions"""
 
@@ -102,7 +118,7 @@ def create_plot(topic_indices, topic_values, topic_name, data_subset, inventory_
                     str(int(w)), va='center', ha='left', fontsize=10, color='#333')
   
   ax.set_yticks(y)
-  ax.set_yticklabels(topics, fontsize=11)
+  ax.set_yticklabels(topic_indices, fontsize=11)
   ax.invert_yaxis()
   ax.set_xlabel("Number of use cases", fontsize=11)
   ax.set_title(topic_name + '\n' + data_subset + '\n(' + inventory_year + ' Federal AI Use Case Inventory)',
@@ -323,7 +339,7 @@ with pd.ExcelWriter("groups_department_agency_2023_2024_2025.xlsx") as writer:
 for i in sorted_groups_department_2024.index[:5]:
   use_case_topic = grouped_department_2024.get_group((i,))["Use Case Topic Area"]
   use_case_rights = grouped_department_2024.get_group((i,))[["Is the AI use case rights-impacting, safety-impacting, both, or neither?", "Use Case Topic Area"]]
-  use_case_rights = use_case_rights[use_case_rights["Is the AI use case rights-impacting, safety-impacting, both, or neither?"].isin(["Both", "Case-by-case assessment", "Rights-Impacting", "Safety-Impacting"])]
+  use_case_rights = use_case_rights[use_case_rights["Is the AI use case rights-impacting, safety-impacting, both, or neither?"].str.lower().isin(["both", "case-by-case assessment", "rights-impacting", "safety-impacting"])]
   topic_rights = use_case_rights["Use Case Topic Area"].value_counts()
   
   topic_counts = use_case_topic.value_counts()
@@ -333,14 +349,33 @@ for i in sorted_groups_department_2024.index[:5]:
 
   create_plot(topics, totals, "Use Case Topic Area", str(i), "2024", rights_counts)
 
-"""Display fields for entire 2024 inventory"""
-fields = ["Use Case Topic Area", "Is the AI use case rights-impacting, safety-impacting, both, or neither?",
-           "Stage of Development"]
-for field in fields:
-  topic_counts = inventory_2024[field].value_counts()
-  topics = topic_counts.index.tolist()
-  totals = topic_counts.values.tolist()
-  create_plot(topics, totals, field, "Full Inventory",  "2024")
+"""Display fields for entire 2024 inventory and rights/safety-impacting designations"""
+cols = inventory_2024.columns
+fields = [cols[4], cols[9:11].tolist(), cols[15], cols[17], cols[19:21].tolist(), cols[22:25].tolist(), cols[27:29].tolist(), cols[30:32].tolist(), cols[33], 
+                 cols[35:37].tolist(), cols[38], cols[40], cols[42:47].tolist(), cols[48:51].tolist(), cols[52], cols[54], cols[56], cols[58], cols[60]]
+
+flat_list = []
+for item in fields:
+    if isinstance(item, list):
+        flat_list.extend(item)  # Unpacks the sublist elements
+    else:
+        flat_list.append(item)  # Appends the standalone number
+
+#print(flat_list)
+for field in flat_list:
+  field_counts = inventory_2024[field].value_counts()
+  fields = field_counts.index.tolist()
+  totals = field_counts.values.tolist()
+
+  if (field.startswith("Is the AI use case rights-impacting") == False):
+    use_case_rights = inventory_2024[["Is the AI use case rights-impacting, safety-impacting, both, or neither?", field]]
+    use_case_rights = use_case_rights[use_case_rights["Is the AI use case rights-impacting, safety-impacting, both, or neither?"].str.lower().isin(["both", "case-by-case assessment", "rights-impacting", "safety-impacting"])]
+    field_rights = use_case_rights[field].value_counts()
+    hi_counts = [field_rights.get(f, 0) for f in fields]
+    create_plot(fields, totals, field, "Full Inventory",  "2024", hi_counts)
+  else:
+     create_plot(fields, totals, field, "Full Inventory",  "2024")
+
 
 """Display 2025 use case topic areas and high-impact designations for top five agencies"""
 
@@ -348,7 +383,7 @@ for i in sorted_groups_department_2025.index[:5]:
 
   use_case_topic = grouped_department_2025.get_group((i,))["Use Case Topic Area"]
   use_case_hi = grouped_department_2025.get_group((i,))[["Is the AI use case high-impact?", "Use Case Topic Area"]]
-  use_case_hi = use_case_hi[use_case_hi["Is the AI use case high-impact?"].isin(["a) High-impact", "b) Presumed high-impact, but determined not high impact"])]
+  use_case_hi = use_case_hi[use_case_hi["Is the AI use case high-impact?"].str.lower().isin(["a) high-impact", "b) presumed high-impact, but determined not high impact"])]
   topic_hi = use_case_hi["Use Case Topic Area"].value_counts()
   
   topic_counts = use_case_topic.value_counts()
