@@ -6,3 +6,9 @@ litellm_config.yaml
 
 #DS_Store
 .DS_Store
+
+# Ignore all Excel spreadsheet files
+*.xlsx
+
+# Ignore data directory
+/data/
