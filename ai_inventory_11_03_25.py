@@ -143,7 +143,7 @@ def create_plot(topic_indices, topic_values, topic_name, data_subset, inventory_
   #plt.tight_layout()
   translator = str.maketrans("", "", string.punctuation)
   clean_text = topic_name.translate(translator)
-  output_dir = Path('./' + clean_text.lower().replace(" ", "_"))
+  output_dir = Path('./data/' + clean_text.lower().replace(" ", "_"))
   fig_name = data_subset.lower().replace(" ", "_") + '_' + inventory_year + '.png'
   file_path = output_dir / fig_name
   output_dir.mkdir(parents=True, exist_ok=True)
