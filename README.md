@@ -7,7 +7,7 @@ A Python script for analyzing and comparing Federal AI Use Case Inventories acro
 ## Features
 
 - **Multi-year data loading** — Reads 2023, 2024, and 2025 Federal AI Use Case Inventory files from local Excel/XLS files
-- **Data cleaning** — Strips whitespace from all string values and column names across all inventories
+- **Data cleaning** — Strips whitespace from all string values and column names across all inventories; normalizes string `"N/A"` and `"NA"` values to `"Not Applicable"` and fills remaining empty cells with `"None"` (rather than leaving them as `NaN`)
 - **Cross-year comparison** — Identifies use cases that appear in both the 2023 and 2024 inventories by matching on title and department/agency
 - **Duplicate detection** — Flags potential duplicate use cases within each year's inventory
 - **Development stage tracking** — Compares the development stage of common use cases between 2023 and 2024
@@ -66,15 +66,15 @@ The script runs sequentially through all analysis steps and writes outputs to th
 |---|---|
 | `duplicate_use_cases_2023.xlsx` | 2023 use cases with duplicate name × department pairs |
 | `duplicate_use_cases_2024.xlsx` | 2024 use cases with duplicate name × department pairs |
-| `dev_stages_2023_2024.xlsx` | Side-by-side development stages for common use cases across 2023 and 2024 |
+| `dev_stages_2023_2024.xlsx` | Side-by-side comparison of common use cases across 2023 and 2024, including title, department, summary (both years), agency/bureau (both years), and development stage (both years) |
 | `groups_department_agency_2023_2024_2025.xlsx` | Six-sheet workbook with use case counts grouped by department and by department × agency for each year |
 
 ### Chart Images
 
-Bar charts are saved as `.png` files (150 DPI) organized into subdirectories named after the topic field (e.g., `use_case_topic_area/`). Charts are generated for:
+Bar charts are saved as `.png` files (150 DPI) under `./data/`, in subdirectories named after the topic field (e.g., `./data/use_case_topic_area/`). Excel files are written to the working directory (where the script is run from). Charts are generated for:
 
 - The top 5 agencies in the 2024 inventory — topic area breakdown with rights/safety-impacting overlay
-- The full 2024 inventory — topic area, rights/safety impact designation, and development stage
+- The full 2024 inventory — a broad set of fields (topic area, development stage, rights/safety impact designation, and many others) each plotted with a rights/safety-impacting overlay where applicable
 - The top 5 agencies in the 2025 inventory — topic area breakdown with high-impact overlay
 
 ---
