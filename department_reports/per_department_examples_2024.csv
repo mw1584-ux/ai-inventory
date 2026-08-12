@@ -1,0 +1,151 @@
+Agency,Topic,examples
+Board of Governors of the Federal Reserve System,Education & Workforce,Institutional Profile Dashboard
+Board of Governors of the Federal Reserve System,Government Services (includes Benefits and Service Delivery),Earnings Calls Search Tool; Proposals and Public Comments; Comment Review System
+Board of Governors of the Federal Reserve System,Law & Justice,Body Worn Cameras Data Management System
+Board of Governors of the Federal Reserve System,Mission-Enabling,Document Organization Tool; Incident Reporting Pattern Detection; Consumer Related Information Classification
+Board of Governors of the Federal Reserve System,Other,Economic Trend Modeling; PDF Optical Character Recognition (Text); PDF Optical Character Recognition (Images)
+Commodity Futures Trading Commission,Law & Justice,Spoofing Detection AI/ML Project
+Commodity Futures Trading Commission,Mission-Enabling,Anomaly Detection for Data Quality; Stress Testing Scenarios with Deep Learning; MPD Entity Risk Modeling
+Consumer Financial Protection Bureau,Law & Justice,Document Review Tool
+Consumer Financial Protection Bureau,Mission-Enabling,Complaint Summarization; Ask Complaints; Complaint Narrative Redaction
+Department of Agriculture,Education & Workforce,IOL Focus Group and Survey Sensemaking
+Department of Agriculture,Emergency Management,U.S. Poultry Operations and Populations Dataset; Equine Operations and Populations Dataset for the U.S.; FuelCast
+Department of Agriculture,Energy & the Environment,Ecosystem Management Decision Support System (EMDS); Cross-Laminated Timber (CLT) Knowledge Database; TreeMap and FuelMap (all versions)
+Department of Agriculture,Government Services (includes Benefits and Service Delivery),Retailer Receipt Analysis; Artificial Intelligence SPAM Mitigation Project; Nutrition Education & Local Access Dashboard
+Department of Agriculture,Law & Justice,Cover Crop Mapping; Planting Date Detection; Acreage and Crop Type Validation
+Department of Agriculture,Mission-Enabling,Repair Spend; Predictive Modeling of Invasive Pest Species; Democratizing Data
+Department of Agriculture,Other,Cropland Data Layer; List Frame Deadwood Identification; Census Propensity Scores via ML
+Department of Agriculture,Science & Space,ARS Project Mapping; NAL Automated Indexing; Detection of Pre-symptomatic HLB Infected Citrus
+Department of Agriculture,Transportation,Predictive flood modeling
+Department of Commerce,Diplomacy & Trade,Global Business Navigator Chatbot; Generative AI Tools Pilot - Global Markets
+Department of Commerce,Education & Workforce,School staff information extraction from web page text; Census Research Exploration and Analysis Tool (CREAT); Statistical package syntax development and debugging
+Department of Commerce,Government Services (includes Benefits and Service Delivery),FAQ for SMaRT; Grants Program Administration; Enriched Citation
+Department of Commerce,Law & Justice,Use of Lexis. Other searches for legal research 
+Department of Commerce,Mission-Enabling,GitHub Copilot for Code Modernization; Azure OpenAI Chat Prototype; Sentinel One Purple AI
+Department of Commerce,Mission-Enabling (internal agency support),Automated Change Detection; Census Bureau Demographic Frame Person-Place Model; Race and Ethnicity Autocoding
+Department of Commerce,NULL,WAWENETS; Coral Reef Watch; Steller sea lion brand sighting 
+Department of Commerce,Other,Real Time Classification for the Economic Census; Census API GPT; Natural Language Search for data.census.gov
+Department of Commerce,Science & Space,Spectrum Visualizations; Science Data Portal Autosuggest Search ; FathomNet
+Department of Education,Education & Workforce,CAISY - Artificial Intelligence System Skillsoft Percipio Assessment for the Department Use
+Department of Education,Other,"Generative AI Usage; Otter.ai - for Public-Facing Meetings, Webinars, and Hearings; AWS Bedrock- Amazon Bedrock in FSA EDMAPS Assessment for the Department Use"
+Department of Energy,Education & Workforce,CAISY; Text To Speech Audio Generation
+Department of Energy,Emergency Management,First Alert DataMinr AI
+Department of Energy,Mission-Enabling (internal agency support) ,OpenText for Records Management (Email Auto-Classification); PARSGPT; SCMC AWS Data Infrastructure
+Department of Energy,Other,"Applications of Natural Language Processing and Similarity Measures for Similarity Ranking; Data Analytics and Machine Learning (DAMaL) Tools to enhance the analysis of Environment, Safety and Health (ES&H) data:  Classification, Robotic Process Automation and Data Visualization; Data Analytics and Machine Learning (DAMaL) Tools for Analysis of Environment, Safety and Health (ES&H) data:  Similarity Based Information Retrieval"
+Department of Energy,Science & Space,"Groundwater Modeling; Fast AI for real-time/online diagnostics and calibration; AI-based autonomous system control/operation optimization (including anomaly/failure detection); AI for system design optimization (e.g., detector, accelerator)"
+Department of Health and Human Services,Education & Workforce,Chat Client - Resource Library; Informal generative AI research for OIDP's HIV.gov; Presenting/providing technical assistance on HIV.gov's cautious & transparent use of generative AI
+Department of Health and Human Services,Emergency Management,Emergency Inventory Redistribution Model; Flow Model Edge Prioritization Estimation Tool; The School Closure Awareness System
+Department of Health and Human Services,Government Services (includes Benefits and Service Delivery),Triaging Notice of Concern Submissions; Child Welfare Information Gateway OneReach Application; CCSQ ServiceNow AI Search
+Department of Health and Human Services,Health & Medical,emPOWER AI; Detecting Stimulant and Opioid Misuse and Illicit Use; Global (GIB) Initiative for Influenza Vaccine Equity (GIIVE): Ensuring Universal Access
+Department of Health and Human Services,Law & Justice,Document Q&A Interface ; Model based open source reporting search and summarization; Central Data Abstraction Tool-Modernized (Modernized-CDAT)- Intake Process Automation (PA) Tool
+Department of Health and Human Services,Mission-Enabling (internal agency support),Design Your Facility; Discover Financial Business Intelligence System (FBIS) Report Analysis (Sub-CAN Line Items); Grant Spend Health Analysis
+Department of Homeland Security,Diplomacy & Trade,Advanced Trade Analytics Platform (ATAP)
+Department of Homeland Security,Education & Workforce,Customs Broker License Exam - Proctor Support; Virtual Agent Chatbot for Human Capital; Conversation Training and Feedback Simulator
+Department of Homeland Security,Emergency Management,Geospatial Damage Assessments; Hazard Mitigation Assistance Chatbot; Planning Assistant for Resilient Communities (PARC)
+Department of Homeland Security,Government Services (includes Benefits and Service Delivery),CBP Careers Bot - Leo; Recovery and Resilience Resource (RRR) Portal; Individual Assistance (IA) & Public Assistance (PA) Projections
+Department of Homeland Security,Health & Medical,Wellness and Physical Fitness Application ; One Health Threat Detection and Risk Assessment Platform (OH-TREADS) / Planner; MiX Phenotyping
+Department of Homeland Security,Law & Justice,Non-Intrusive Inspection (NII) 3D Imaging Tool; Babel; Fivecast ONYX
+Department of Homeland Security,Mission-Enabling,Automated Data Annotation; AI/LLM to generate testable synthetic data; AI for Software Delivery
+Department of Homeland Security,NULL,RVSS Legacy Overhauled System Project; Agent Portable Surveillance; Open-Source News Aggregation
+Department of Homeland Security,Transportation,Low Probability of False Alarm (Low-Pfa) Algorithm for on-person screening.; Automated Target Recognition (ATR) Developments for Standard Screening; Accessible Property Screening (APS) Checkpoint CT Prohibited Items (PI) Detection
+Department of Housing and Urban Development,Mission-Enabling,Counterparty Risk Anomaly Detection ; Subledger Data Quality Machine Learning; Automating Draft Counterparty Credit Narrative Reports
+Department of Justice, Government Services (includes Benefits and Service Delivery),Salesforce; ChatBot
+Department of Justice, Mission-Enabling (internal agency support),Veritone Redact; ahrefs; aifreebox.com
+Department of Justice,Education & Workforce,Percipio Skillsoft CAISY; Aztec Learning Software; Pathfinder
+Department of Justice,Government Services (includes Benefits and Service Delivery),Generative AI / Large Language Model: Call Center Management and Service Delivery Support (Salesforce)
+Department of Justice,Health & Medical,ASCVD (Atherosclerotic Cardiovascular Disease) Risk Estimator; Automated Medication Dispensing Cabinet (Pyxis); Community Treatment Pipeline Screening
+Department of Justice,Law & Justice,Airlines Reporting Corporation Travel Intelligence Program; Airship; Axon FUSUS (via HIDTA partners)
+Department of Justice,Mission-Enabling (internal agency support),Adobe Suite Applications; Alation Data Catalog; Bloomberg Government - AKA BGOV
+Department of Justice,Other,Azure Data Factory; Azure Zen 2 Storage; PowerBI Premium 
+Department of Justice,Transportation,JARS - JMIS; Route Optimizer - JMIS
+Department of Labor,Education & Workforce,Hololens; AI Course Design Assistant; Camtasia
+Department of Labor,Government Services (includes Benefits and Service Delivery),Form Recognition model for Benefits Forms; Claims Document Processing; Automatic Document Processing
+Department of Labor,Law & Justice,Westlaw Precision & CoCounsel
+Department of Labor,Mission-Enabling (internal agency support),Language Translation; Audio Transcription; Text to Speech Conversion
+Department of State,Diplomacy & Trade,Automated Damage Assessments; Automated Burning Detection ; Optical Character Recognition - Text Extraction
+Department of State,Diplomacy & Trade; Mission-Enabling (internal agency support),J Reports Data Collection & Management Tool (DCT)
+Department of State,Education & Workforce,Creating Persistent Virtual Reality Personas for dynamic training; FSI Enterprise Operations - Gaming and Simulations; FSI Continuous Learning Solutions
+Department of State,Mission-Enabling ,AI input in Translation
+Department of State,Mission-Enabling (internal agency support),Product Service Code Automation ML Model; Tailored Integration Logistics Management System (ILMS) User Analytics; Property and Procurement Analytics
+Department of State,Other,Travel.state.gov (TSG) Content Refinement with AI Text Editor; Predictive Analytics Platform; Consular Affairs Photo Quality Service (PQS) / FaceVACS
+Department of State,Other; Mission-Enabling (internal agency support),Innovation and Transformation Measurement and Prediction; Evaluating Customer Feedback and Sentiments with AI; CodeGen - AI-assisted IT Application Development
+Department of Transportation,AI used in Transportation Operations, Certified Professional Controller (CPC) On-Board Success Evaluator; Automated Delay detection using voice processing; Technical Operations Predictive Maintenance
+Department of Transportation,"Administration of AI Governance, Processes, and Procedures",USDOT Compliance Plan for OMB Memorandum M-24-10 (September 2024); AI Support and Collaboration Center (AISCC); Transportation Use Case Knowledge Repository (TrUCKR)
+Department of Transportation,DOT Sponsored External Research,Exploratory Advanced Research group of projects 
+Department of Transportation,Department-Level AI Capabilities and Capacity,Advanced Research and Testing (ART) Network; AI Operations Laboratory (OPSLAB); Transportation AI-enabled Network (TrAIN)
+Department of Transportation,Internal DOT Research Project,Head Kinematics Prediction; Crash Parameter Prediction; Crushed Aggregate Gradation Evaluation System
+Department of Veterans Affairs,Education & Workforce,Nursing Proficiency Coach & Nurse Proficiency Evaluator...and beyond!; ReflexAI; Synthetic Data Creation
+Department of Veterans Affairs,Government Services (includes Benefits and Service Delivery),Google Cloud Platform - CCAI / Dialogflow ; VEO Virtual Analyst Proof of Concept; Pension Optimization Initiative (POI)
+Department of Veterans Affairs,Health & Medical,CareCentra Next Level Personalized AI Health Coach; GE Xeleris ; MRI - GE Signa Artist
+Department of Veterans Affairs,Law & Justice,Evolv WDS - OSSO; Avigilon Camera/Search Function - OSSO; SafePointe WDS - OSSO
+Department of Veterans Affairs,Mission-Enabling (internal agency support),VA Chat Copilot Meta Pilot; Genesys Cloud Contact Center; Identity Governance and Administration (IGA)
+Department of Veterans Affairs,Other,"ScienceLogic Artificial Intelligence Operations (AIOPS) Software Subscriptions with Maintenance and Professional Support Services.; Medallia SaaS - VSignals and ESignals; Analytics, Data, and Decision Support Unified Platform (ADDSUP)"
+Department of Veterans Affairs,Transportation,Microsoft Power Automate and AI  
+Department of Veterans Affairs ,Mission-Enabling,Transcription Services; Chatbot within ESMS
+Department of the Interior,Government Services (includes Benefits and Service Delivery),RAG knowledge base of agent procedures; NPS Acquisition Management Workload Software; Proposal for the I-NEPA System: Leveraging Artificial Intelligence (AI) for Enhanced Efficiency in E
+Department of the Interior,Mission-Enabling,Data Extraction Using MS Power Automate AI Functionality; Image Generation and Audio Video Editing; Machine Learning Model Optimization
+Department of the Interior,Mission-Enabling (internal agency support),DOIChatGPT AI Chatbot; DOIChatGPT API Management Instance; DOIChatGPT API Management Development Environment
+Department of the Interior,NULL,Non-Generative AI use for Trust Information Analysis and Reporting Tool; Intelligent Optical Character Recognition
+Department of the Interior,Science & Space,Pilot: Using Machine Learning to Harvest Data for Standardized Species Conservation; Summarization of documents and output to ECOSphere species workflow; Prediction of Suitable Habitat for ESA-listed Species
+Department of the Treasury,Government Services (includes Benefits and Service Delivery),Generative AI Toolbox for Contract Document Assistance
+Department of the Treasury,Mission-Enabling,Collections Chatbot; Systran Translation Software; Automated Underreporter (AUR) Voicebot
+Election Assistance Commission,Government Services (includes Benefits and Service Delivery),Clearinghouse Network 
+Election Assistance Commission,Mission-Enabling,Microsoft Copilot Integration
+Environmental Protection Agency,Energy & the Environment,Transitioning historical help desk knowledge to new help desk software ; Emission monitoring program knowledge management system search and summary; Natural Gas STAR Videos 
+Environmental Protection Agency,Government Services (includes Benefits and Service Delivery),GovChat
+Environmental Protection Agency,Law & Justice,Resource Conservation and Recovery Act (RCRA) Predictive Analytics; Clean Water Act (CWA)Predictive Analytics; Clean Air Act (CAA) Predictive Analytics
+Environmental Protection Agency,Mission-Enabling,Agency Records Management System (ARMS); Use of Microsoft CoPilot within the M365 Purview Security Suite; Use of AI tools within the Agency’s instance of ServiceNow
+Environmental Protection Agency,Science & Space,Identification of lead service lines in drinking water distribution systems using bioindicators/biomarkers; Generative AI for Study Evaluation and Document Chat; Machine learning-assisted literature screening
+Equal Employment Opportunity Commission,Education & Workforce,Employee Training and Professional Development
+Equal Employment Opportunity Commission,Government Services (includes Benefits and Service Delivery),Language Translation; Reasonable Accommodation; Virtual Assistants
+Equal Employment Opportunity Commission,Law & Justice,Legal Research & Discovery
+Equal Employment Opportunity Commission,Mission-Enabling,Records Management; FOIA; Cybersecurity
+Federal Deposit Insurance Corporation,Mission-Enabling,Invoice and Contract Data Extraction; Server Failure Prediction; Plain Language Policy Assistant
+Federal Deposit Insurance Corporation,Other,AI Assisted Data Collection; AI Assisted Time Management; Compliance Risk Monitoring
+Federal Energy Regulatory Commission,Energy & the Environment,Improve Safety Inspections Use Case ; Support Interconnection Request Responses Use Case 
+Federal Energy Regulatory Commission,Mission-Enabling,Leverage AI in the Rulemaking Process Use Case ; Enhance Market Surveillance and Fraud Detection Use Case 
+Federal Housing Finance Agency,Mission-Enabling,LexisNexis; Neural Networks for FHFA Modeling Analytics Platform (FMAP); Phishing Email Identification
+Federal Trade Commission,Government Services (includes Benefits and Service Delivery),Chatbot
+Federal Trade Commission,Other,Automatic PSC Classification; Group Duplicate Complaints; Word Cloud
+General Services Administration,Government Services (includes Benefits and Service Delivery),GREX AI Document Classification; Gemini for Workspace; Test Fit Layouts
+General Services Administration,Mission-Enabling,Acquisition Analytics; Category Taxonomy Classifier; CPRM Contract Breach Forecast
+General Services Administration,Other,Solicitation Review Tool (SRT); Enterprise Brain; AWS Captcha Solver
+General Services Administration,Transportation,City Pairs Program Ticket Forecast and Scenario Analysis Tools
+National Aeronautics and Space Administration,AIML Platform/Environment,Volcano SensorWeb
+National Aeronautics and Space Administration,Classification,Enhanced AutoNav for Perseverance Rover on Mars
+National Aeronautics and Space Administration,Deep Learning,AEGIS: Autonomous Exploration for Gathering Increased Science; MLNav (Machine Learning Navigation); Perseverance Rover on Mars - Terrain Relative Navigation
+National Aeronautics and Space Administration,NLP,Purchase Card Management System (PCMS); New Technology and Software Reporting (NTR)
+National Aeronautics and Space Administration,Natural Language Processing,NextGen Advanced Methods: Air Traffic Control System Command Center (ATCSCC) Webinar Speech2Text and Analysis; NextGen Data Analytics: Letters of Agreement; NASA OCIO STI Concept Tagging Service
+National Aeronautics and Space Administration,Other,Mars2020 Rover (Perseverance); Onboard Planner for Mars2020 Rover (Perseverance)
+National Aeronautics and Space Administration,Statistical Methods,"ASPEN Mission Planner; CLASP Coverage Planning & Scheduling; SensorWeb: Volcano, Flood, Wildfire, and others."
+National Archives and Records Administration,Mission-Enabling,AI Pilot Project to Screen and Flag for Personally Identifiable Information (PII) in Digitized Archival Records; Freedom of Information Act (FOIA) Discovery AI Pilot; Auto-fill of Descriptive Metadata for Archival Descriptions 
+National Credit Union Administration,Mission-Enabling,Machine Learning Data Validation; Supervisory Stress Testing; Risk Indicator Model
+National Credit Union Administration,Other,Native Editor; Insights; iPhone Facial Recognition Technology
+National Science Foundation,Mission-Enabling,"ServiceNow GenAI ""Now Assist""; Budget Area Topic Classification Tool; AI voice over"
+National Transportation Safety Board,Mission-Enabling,Voice to text transcription; Semantic Similarity Text Search
+Office of Personnel Management,Mission-Enabling,USA Class; Copilot for Microsoft 365
+Pension Benefit Guaranty Corporation,Mission-Enabling,IT Security Monitoring
+Pension Benefit Guaranty Corporation,Other,Synthetic Data Generation
+Postal Regulatory Commission,Law & Justice,Lexis +AI
+Presidio Trust,Mission-Enabling,"Productivity and communications including the generation of insights, automation and workflow; Ability to find information through search results and other methods; Pattern identification, simulations, optimization and forecasting leading to alerts, notifications and reporting"
+Securities and Exchange Commission,Education & Workforce,Training Conversation Tool ; Using AI to Help with Coding-Related Tasks/Questions
+Securities and Exchange Commission,Mission-Enabling,Federal Acquisition Research Solution; Human Resources Search; Mobile Phone Artificial Intelligence Features
+Securities and Exchange Commission,Other,Comment Letter Review and Analysis ; Forms Filed; 8-K Filing Solution
+Social Security Administration,Government Services (includes Benefits and Service Delivery),Insight; Intelligent Medical Language Analysis Generation (IMAGEN); Duplicate Identification Process
+Social Security Administration,Health & Medical,Therapy Chatbot - Text-Based Mental Health Support for SSA Employees
+Social Security Administration,Mission-Enabling,Speech to Text Video Transcription; Agency Support Companion (ASC) chatbot
+Tennessee Valley Authority,Energy & the Environment,Extreme Load Analysis; Materials Intelligent Catalog Assistant; Vegetation Management
+Tennessee Valley Authority,Mission-Enabling,Advanced Network Anomaly Detection; Security Information and Event Management (SIEM) Alerting Models; Vulnerability Tracking
+United States Agency for Global Media,Mission-Enabling,Microsoft Copilot for Internal Employees ; Automated Transcription Generation ; Content Enhancement for Articles 
+United States Agency for International Development,Diplomacy & Trade,Gender differentiated credit scoring; Machine Learning for Peace; Morogoro youth empowerment through establishment of social innovation (YEESI) lab for problem-centered training in machine vision
+United States Agency for International Development,Education & Workforce,Chatbot to respond to teachers' questions about how to prevent student dropout
+United States Agency for International Development,Emergency Management,SKAI: Large-scale assessment of building damage; NEMO: Real-time categorization of hotline calls; AI for humanitarian logistics
+United States Agency for International Development,Energy & the Environment,DeepGreen Ukraine
+United States Agency for International Development,Government Services (includes Benefits and Service Delivery),"LIDA: Instant Messaging System in the Family Commissioner's Office of Montería - Córdoba, Colombia"
+United States Agency for International Development,Health & Medical,Using ML for predicting treatment interruption among PLHIV in Nigeria; Serbia: AI predictions for the utilization of hospital beds; Qure.AI integrated in mobile X-ray screening to improve community TB case finding
+United States Agency for International Development,Law & Justice,Amazonía Mia - AI for environmental law enforcement in Colombia
+United States Agency for International Development,Mission-Enabling,Private Sector Engagement Evidence Gap Map Analytical Pilot; AI Pilot- Detection of data exfiltration; ARTS - Automated Indirect Cost and Tracking System
+United States Agency for International Development,Science & Space,Long-term impacts of land-use/land-cover dynamics on surface water quality in Botswana’s reservoirs using satellite data and artificial intelligence methods: Case study of the Botswana’s Limpopo River Basin (1984-2019); PEER 9-452: Long-term impacts of land-use/land-cover dynamics on surface water quality in Botswana’s reservoirs using satellite data and artificial intelligence methods: Case study of the Botswana’s Limpopo River Basin (1984-2019); Feed the Future Innovation Lab for Applied Wheat Genomics
+United States Commission on Civil Rights,Mission-Enabling,Microsoft Copilot Integration
+United States Commission on Civil Rights,Other,Relativity One 
+United States Trade and Development Agency,Mission-Enabling,Lookout for mobile security; Qualys Cloud Detection and Response; Crowdstrike Falcon Threat Detection and Response

@@ -1,0 +1,43 @@
+Agency Name,total_use_cases,top_topic,top_topic_count,highimpact_high,highimpact_not_high,highimpact_presumed_not,examples_top_topic
+Commodity Futures Trading Commission,3,NULL,3,0,0,0,Anomaly Detection for Data Quality; Stress Testing Scenarios with Deep Learning; MPD Entity Risk Modeling
+Department of Agriculture,162,Science,60,4,156,2,NAL Automated Indexing; LCAT - Land Change Analysis Technique; Raster Tools
+Department of Commerce,223,NULL,223,0,0,0,GitHub Copilot for Code Modernization; Meeting Transcription Summarization; Real Time Classification for the Economic Census
+Department of Education,56,NULL,56,0,0,0,Aidan Chat-bot; IPAC RPA Bot; CAISY - Artificial Intelligence System Skillsoft Percipio Assessment for the Department Use
+Department of Energy,340,Information Technology,90,29,306,5,Use of developed ML techniques to parse opensource text-based information.; ServiceNow Predictive Intelligence; Microsoft 365 Copilot (Productivity Suite)
+Department of Health and Human Services,447,Administrative Functions,117,2,432,13,Head Start Correspondence Categorizer; Certification and Testing/Program Administration – AI-enabled Internal Processes; Automated Analysis of Injury Control Research Center (ICRC) Annual Progress Reports (APRs) using Large Language Models
+Department of Homeland Security,238,Law Enforcement,86,55,134,49,Smartphone Information Forensics Triage; Advanced Analytics for X-ray Images (AAXI); Real-Time Language Translation Services
+Department of Housing and Urban Development,11,Service Delivery,3,0,11,0,Voice of the Customer; Email Assistant; FHA Resource Center Chatbot
+Department of Justice,314,Law Enforcement,170,114,168,32,Airlines Travel Intelligence Program; Unmanned Aerial Systems (UAS); Axon FUSUS (via HIDTA partners)
+Department of Labor,41,Other - Applied Mathematical Sciences,13,1,40,0,"OEWS Occupation Autocoder; Scanner Data Product Classification; Expenditure Classification 
+Autocoder"
+Department of State,60,NULL,23,3,57,0,FOIA Web ML Document Indexer; Travel.State.Gov (TSG) Enhanced Search and Chatbot; Travel.state.gov (TSG) Content Refinement with AI Text Editor
+Department of Transportation,70,Transportation,48,0,70,0,Certified Professional Controller (CPC) On-Board Success Evaluator; Automated Delay detection using voice processing; Technical Operations Predictive Maintenance
+Department of Veterans Affairs,367,Health and Medical,166,215,152,0,Clinical AI Agent; VA AI Assist; Summarization of Clinical Data
+Department of the Interior,247,Science,170,0,247,0,Bird Nest Detection [2024 Inv#WO0000000110506]; Remote Sensing Coastal Change - Shoreline Change; Development of a computer vision model to monitor for early detection of habitat loss across the landscape. [2024 INV#DOI-65]
+Department of the Treasury,129,Information Technology,56,4,122,3,OCC.Chat; OCC.InfoAssist; OCC Guidance Summarization
+Election Assistance Commission,4,Administrative Functions,3,0,4,0,Internal Generative AI Tools for Staff Productivity; Grants Lifecycle Application System; Routing emails from shared inboxes
+Environmental Protection Agency,29,Law Enforcement,7,2,26,1,FFEO TSCA investigation into privatized military housing property management companies; Briefcam; AI-Enhanced Facility Finder
+Farm Credit Administration,3,Other,2,0,2,0,Loan information retrieval; Examination knowledge assistant
+Federal Communications Commission,6,Information Technology,6,0,6,0,AI-Enhanced ULS Reverse Engineering; ECFS Comment Analytics Deduplication Services (CADS); Comment Legal Analysis & Review Assistant
+Federal Deposit Insurance Corporation,50,Other,15,1,49,0,Compliance Risk Monitoring; Pre-Examination Planning Monitoring; HMDA (Home Mortgage Disclosure Act) Outlier Screen
+Federal Energy Regulatory Commission,6,Energy and the Environment,5,0,6,0,Summarization & Policy Analysis for Regulatory Comments (originally Leverage AI in the Rulemaking Process Use Case); Improve Safety Inspections Use Case; Enhance Market Surveillance and Fraud Detection Use Case
+Federal Housing Finance Agency,16,Information Technology,5,0,16,0,"Neural Networks for FHFA Modeling Analytics Platform (FMAP); Virtual Desktop using Citrix; Analytics, Indexing, and Anomaly Detection for Data Management on SQL Server"
+Federal Reserve Board,38,Other – Economic & Financial,34,0,38,0,Economic Trend Modeling; Stock Market Analysis; Commercial Real Estate Index
+Federal Trade Commission,16,Other,9,0,16,0,Chatbot; Developer Productivity; Microsoft 365 Copilot
+General Services Administration,49,Procurement and Financial Management,13,0,0,0,ASSIST Auto Copy and Summarize; Leveraging Retrieval Augmented Generation (RAG) AI to Power Outcome-Based Contracting; SINSpector: Using Generative AI to Enforce Scope and Compliance
+National Aeronautics and Space Administration,425,Science,387,1,421,3,Anomaly Detection and Precursor Identification in UAV flight data; Deep Learning for Flood Mapping (DELTA); Distributed Spacecraft Autonomy
+National Archives and Records Administration,14,Other,14,0,14,0,Generative AI Solutions for Workplace Productivity (aka Gemini); A1 Museum AI Project; NARA@WORK Kendra Search
+National Credit Union Administration,6,Procurement and Financial Management,6,5,1,0,Machine Learning Data Validation; Supervisory Stress Testing; Risk Indicator Model
+National Endowment for the Arts,4,Service Delivery,2,0,4,0,"Categorizing Grant Subjects from Grant Applicants; External ""Public Facing"" Chatbot"
+National Indian Gaming Commission,5,Administrative Functions,5,0,5,0,LexisNexus; Adobe Photoshop AI (AI Plugin); Microsoft Copilot
+National Science Foundation,17,NULL,17,0,0,0,"ServiceNow GenAI ""Now Assist""; Budget Area Topic Classification Tool; AI voice over"
+National Transportation Safety Board,4,Emergency Management,1,0,4,0,Dataminr
+Nuclear Regulatory Commission,4,Energy and the Environment,4,0,4,0,"Text Retrieval and Generation for NRC Staff Support; Support routine administrative tasks and enhancing communications; Unified, secure access to multiple advanced AI language models"
+Occupational Safety and Health Review Commission,1,Other,1,0,1,0,Westlaw Edge
+Office of Special Counsel,1,Government Benefits Processing,1,0,0,0,Copilot Studio
+Pension Benefit Guaranty Corporation,17,Information Technology,5,0,0,0,"Synthetic Data Generation; Intelligent, auto-generated meeting summaries, notes, and tasks; IT Service Management Virtual Agent and Automation"
+Securities and Exchange Commission,60,Other,32,0,60,0,8-K Filing Solution; CF Staff Review Comments; Name Matching
+Small Business Administration,34,Service Delivery,18,0,34,0,Meeting Minutes Summary Tool; Business Development; Audit Green Book Classification
+Social Security Administration,33,Government Benefits Processing,14,9,24,0,Insight; Intelligent Medical Language Analysis Generation (IMAGEN); Duplicate Identification Process
+Surface Transportation Board,2,Other,2,0,0,2,Copilot for Appian; RelativityOne
+Tennessee Valley Authority,59,Energy and the Environment,41,0,0,0,Extreme Load Analysis; Materials Intelligent Catalog Assistant; Vegetation Management

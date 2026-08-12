@@ -1,0 +1,43 @@
+Agency,total_use_cases,top_topic,top_topic_count,rights_neither,rights_both,rights_rights_impacting,rights_safety_impacting,examples_top_topic
+Board of Governors of the Federal Reserve System,50,Other,23,50,0,0,0,Economic Trend Modeling; PDF Optical Character Recognition (Text); PDF Optical Character Recognition (Images)
+Commodity Futures Trading Commission,4,Mission-Enabling,3,3,1,0,0,Anomaly Detection for Data Quality; Stress Testing Scenarios with Deep Learning; MPD Entity Risk Modeling
+Consumer Financial Protection Bureau,4,Mission-Enabling,3,4,0,0,0,Complaint Summarization; Ask Complaints; Complaint Narrative Redaction
+Department of Agriculture,89,Mission-Enabling,33,85,0,4,0,Repair Spend; Predictive Modeling of Invasive Pest Species; Democratizing Data
+Department of Commerce,57,Mission-Enabling,12,57,0,0,0,GitHub Copilot for Code Modernization; Azure OpenAI Chat Prototype; Sentinel One Purple AI
+Department of Education,54,Other,53,54,0,0,0,"Generative AI Usage; Otter.ai - for Public-Facing Meetings, Webinars, and Hearings; AWS Bedrock- Amazon Bedrock in FSA EDMAPS Assessment for the Department Use"
+Department of Energy,79,Mission-Enabling (internal agency support) ,48,76,0,0,3,OpenText for Records Management (Email Auto-Classification); PARSGPT; SCMC AWS Data Infrastructure
+Department of Health and Human Services,271,Mission-Enabling (internal agency support),133,267,0,2,2,Design Your Facility; Discover Financial Business Intelligence System (FBIS) Report Analysis (Sub-CAN Line Items); Grant Spend Health Analysis
+Department of Homeland Security,183,Law & Justice,58,111,7,26,1,Non-Intrusive Inspection (NII) 3D Imaging Tool; Babel; Fivecast ONYX
+Department of Housing and Urban Development,6,Mission-Enabling,6,5,1,0,0,Counterparty Risk Anomaly Detection ; Subledger Data Quality Machine Learning; Automating Draft Counterparty Credit Narrative Reports
+Department of Justice,240,Law & Justice,161,95,45,72,7,Airlines Reporting Corporation Travel Intelligence Program; Airship; Axon FUSUS (via HIDTA partners)
+Department of Labor,70,Mission-Enabling (internal agency support),59,68,0,2,0,Language Translation; Audio Transcription; Text to Speech Conversion
+Department of State,51,Mission-Enabling (internal agency support),18,51,0,0,0,Product Service Code Automation ML Model; Tailored Integration Logistics Management System (ILMS) User Analytics; Property and Procurement Analytics
+Department of Transportation,66,AI used in Transportation Operations,42,66,0,0,0, Certified Professional Controller (CPC) On-Board Success Evaluator; Automated Delay detection using voice processing; Technical Operations Predictive Maintenance
+Department of Veterans Affairs,227,Health & Medical,158,82,127,8,10,CareCentra Next Level Personalized AI Health Coach; GE Xeleris ; MRI - GE Signa Artist
+Department of Veterans Affairs ,2,Mission-Enabling,2,2,0,0,0,Transcription Services; Chatbot within ESMS
+Department of the Interior,180,Mission-Enabling,154,180,0,0,0,Data Extraction Using MS Power Automate AI Functionality; Image Generation and Audio Video Editing; Machine Learning Model Optimization
+Department of the Treasury,54,Mission-Enabling,53,52,0,2,0,Collections Chatbot; Systran Translation Software; Automated Underreporter (AUR) Voicebot
+Election Assistance Commission,2,Mission-Enabling,1,2,0,0,0,Microsoft Copilot Integration
+Environmental Protection Agency,17,Energy & the Environment,5,16,0,0,1,Transitioning historical help desk knowledge to new help desk software ; Emission monitoring program knowledge management system search and summary; Natural Gas STAR Videos 
+Equal Employment Opportunity Commission,8,Mission-Enabling,3,8,0,0,0,Records Management; FOIA; Cybersecurity
+Federal Deposit Insurance Corporation,55,Mission-Enabling,29,54,0,1,0,Invoice and Contract Data Extraction; Server Failure Prediction; Plain Language Policy Assistant
+Federal Energy Regulatory Commission,4,Mission-Enabling,2,4,0,0,0,Leverage AI in the Rulemaking Process Use Case ; Enhance Market Surveillance and Fraud Detection Use Case 
+Federal Housing Finance Agency,18,Mission-Enabling,18,18,0,0,0,LexisNexis; Neural Networks for FHFA Modeling Analytics Platform (FMAP); Phishing Email Identification
+Federal Trade Commission,6,Other,5,6,0,0,0,Automatic PSC Classification; Group Duplicate Complaints; Word Cloud
+General Services Administration,24,Other,14,23,0,1,0,Solicitation Review Tool (SRT); Enterprise Brain; AWS Captcha Solver
+National Aeronautics and Space Administration,18,Deep Learning,6,18,0,0,0,AEGIS: Autonomous Exploration for Gathering Increased Science; MLNav (Machine Learning Navigation); Perseverance Rover on Mars - Terrain Relative Navigation
+National Archives and Records Administration,9,Mission-Enabling,9,9,0,0,0,AI Pilot Project to Screen and Flag for Personally Identifiable Information (PII) in Digitized Archival Records; Freedom of Information Act (FOIA) Discovery AI Pilot; Auto-fill of Descriptive Metadata for Archival Descriptions 
+National Credit Union Administration,16,Other,13,16,0,0,0,Native Editor; Insights; iPhone Facial Recognition Technology
+National Science Foundation,16,Mission-Enabling,16,16,0,0,0,"ServiceNow GenAI ""Now Assist""; Budget Area Topic Classification Tool; AI voice over"
+National Transportation Safety Board,2,Mission-Enabling,2,2,0,0,0,Voice to text transcription; Semantic Similarity Text Search
+Office of Personnel Management,2,Mission-Enabling,2,0,0,2,0,USA Class; Copilot for Microsoft 365
+Pension Benefit Guaranty Corporation,2,Other,1,2,0,0,0,Synthetic Data Generation
+Postal Regulatory Commission,1,Law & Justice,1,1,0,0,0,Lexis +AI
+Presidio Trust,5,Mission-Enabling,5,5,0,0,0,"Productivity and communications including the generation of insights, automation and workflow; Ability to find information through search results and other methods; Pattern identification, simulations, optimization and forecasting leading to alerts, notifications and reporting"
+Securities and Exchange Commission,28,Other,20,28,0,0,0,Comment Letter Review and Analysis ; Forms Filed; 8-K Filing Solution
+Social Security Administration,23,Government Services (includes Benefits and Service Delivery),20,14,0,8,1,Insight; Intelligent Medical Language Analysis Generation (IMAGEN); Duplicate Identification Process
+Tennessee Valley Authority,39,Energy & the Environment,21,39,0,0,0,Extreme Load Analysis; Materials Intelligent Catalog Assistant; Vegetation Management
+United States Agency for Global Media,8,Mission-Enabling,8,8,0,0,0,Microsoft Copilot for Internal Employees ; Automated Transcription Generation ; Content Enhancement for Articles 
+United States Agency for International Development,137,Diplomacy & Trade,77,119,14,3,0,Gender differentiated credit scoring; Machine Learning for Peace; Morogoro youth empowerment through establishment of social innovation (YEESI) lab for problem-centered training in machine vision
+United States Commission on Civil Rights,2,Mission-Enabling,1,2,0,0,0,Microsoft Copilot Integration
+United States Trade and Development Agency,4,Mission-Enabling,4,4,0,0,0,Lookout for mobile security; Qualys Cloud Detection and Response; Crowdstrike Falcon Threat Detection and Response

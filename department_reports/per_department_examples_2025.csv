@@ -1,0 +1,237 @@
+Agency Name,Topic,examples
+Commodity Futures Trading Commission,NULL,Anomaly Detection for Data Quality; Stress Testing Scenarios with Deep Learning; MPD Entity Risk Modeling
+Department of Agriculture,Administrative Functions,Video Surveillance System; Automated PDF Document Processing and Information Extraction; Predictive Cropland Data Layer
+Department of Agriculture,Cybersecurity,Infosec Chatbot
+Department of Agriculture,Emergency Management,US Poultry and Operations Dataset; Equine Operations and Populations Dataset for the U.S.; Incident Invoice Document Understanding
+Department of Agriculture,Energy and the Environment,Ecosystem Management Decision Support System (EMDS); Rangeland Analysis Platform; GIS Invasive Tree Extraction for Field Level Users
+Department of Agriculture,Government Benefits Processing,Nutrition Education & Local Access Dashboard; ROE Document Recognition - RoeDR
+Department of Agriculture,Health and Medical,Image generator for presentation support
+Department of Agriculture,Human Resources,NRE FS Customer Relationship Manager New Hire Experience (NRE FS CRM NHE) CSAM ID 2639
+Department of Agriculture,Information Technology,Aquisition Approval Request Compliance Tool; DS Hub Geo-metadata generation; ESRI Support Chat Bot
+Department of Agriculture,International Affairs,ARGUS AI Supply Chain Interference
+Department of Agriculture,NULL,ARS Project Mapping; Retailer Receipt Analysis; Cross-Laminated Timber (CLT) Knowledge Database
+Department of Agriculture,Other,Predictive Modeling of Invasive Pest Species; List Frame Deadwood Identification; Survey Outlier Detection Model
+Department of Agriculture,Procurement and Financial Management,Repair Spend; ProcureSight; Yearly Incident Procurement Classification Report
+Department of Agriculture,Science,NAL Automated Indexing; LCAT - Land Change Analysis Technique; Raster Tools
+Department of Agriculture,Service Delivery,Democratizing Data; Operational Water Supply Forecasting for Western US Rivers; Approximate String Matching (aka fuzzy matching) to Standardize Data
+Department of Agriculture,Transportation,Predictive flood modeling; NETS automated waterway design
+Department of Commerce,NULL,GitHub Copilot for Code Modernization; Meeting Transcription Summarization; Real Time Classification for the Economic Census
+Department of Education,NULL,Aidan Chat-bot; IPAC RPA Bot; CAISY - Artificial Intelligence System Skillsoft Percipio Assessment for the Department Use
+Department of Energy,Administrative Functions,PARSGPT; CAISY; DOE Technical Standards
+Department of Energy,Cybersecurity,Network Security and Analysis; Microsoft Copilot for Security; Machine Learning components within Splunk Enterprise Security
+Department of Energy,Emergency Management,First Alert DataMinr AI; Boston Dynamics Spot Robotics
+Department of Energy,Energy and the Environment,"Natural Language Processing; DOE AI Data Infrastructure System; Creation of polymer datasets and inverse design of polymers with targeted backbones having 
+High CO2 permeability and high CO2/N2 selectivity."
+Department of Energy,Health and Medical,Elucidating Genetic and Environmental Risk Factors for Antipsychotic-induced Metabolic Adverse Effects Using AI
+Department of Energy,Human Resources,Text To Speech Audio Generation; AI-Enhanced Hub; HR Job Postings
+Department of Energy,Information Technology,Use of developed ML techniques to parse opensource text-based information.; ServiceNow Predictive Intelligence; Microsoft 365 Copilot (Productivity Suite)
+Department of Energy,International Affairs,Neptune
+Department of Energy,NULL,"AI for system design optimization (e.g., detector, accelerator); FIMS Invoice BOT; SWPA Generative AI"
+Department of Energy,Other,AI for Operations Center; NLCOO AI for Lessons Learned tool; Scopus AI
+Department of Energy,Procurement and Financial Management,Poseidon; FindMATID; Invoice Scanning System
+Department of Energy,Science,"To help automate data discovery and preparations to support a range of CS models, tools, and products; ORNL: Foundational AI Research; ORNL: AI for Materials Science"
+Department of Energy,Transportation,AI used for predictive modeling and real time control of traffic systems; Managing curb allocation in cities
+Department of Health and Human Services,Administrative Functions,Head Start Correspondence Categorizer; Certification and Testing/Program Administration – AI-enabled Internal Processes; Automated Analysis of Injury Control Research Center (ICRC) Annual Progress Reports (APRs) using Large Language Models
+Department of Health and Human Services,Cybersecurity,AIP Cyber Incident Ingestion
+Department of Health and Human Services,Emergency Management,Senior Leadership Briefing Generation; NewsScape; Short-term Forecasting of Severe Outcomes for Seasonal and Epidemic Pathogens
+Department of Health and Human Services,Government Benefits Processing,Structuring and Validating Completeness of Case Data Information; Structuring Notice of Concern Data; Unaccompanied Child Sponsor Identity Verification
+Department of Health and Human Services,Health and Medical,emPOWER AI; The NEF DSI/AI project addresses local validation of AI-based clinical decision support (CDS)/decision support interventions (DSI) in provider settings.; Detecting Stimulant and Opioid Misuse and Illicit Use
+Department of Health and Human Services,Human Resources,Ask HR Policy; Collective Bargaining Compass; Document Review for Alignment with Executive Orders: Position Descriptions
+Department of Health and Human Services,Information Technology,Discover User Assistant; Builder Buddy; AHRQ Search
+Department of Health and Human Services,Law Enforcement,AI-Assisted Systematic Review and Validation of Analytical Worksheets; AI-Powered Video Analytics for Law Enforcement; ChatGPT
+Department of Health and Human Services,NULL,Design Your Facility; Grant Spend Health Analysis; Unaccompanied Children Process Model Digital Twins
+Department of Health and Human Services,Other,Qualitative Analysis; Document Review for Alignment with Executive Orders: Grant Materials; Grant management support: structuring information in applications
+Department of Health and Human Services,Procurement and Financial Management,Discover Financial Business Intelligence System (FBIS) Report Analysis (Sub-CAN Line Items); Acquisition support: co-drafting acquisition packages; Acquisition support: assisting reviews and co-drafting technical evaluation documents
+Department of Health and Human Services,Science,Portfolio Analytics; Assessing Large Language Models for Synthetic Survey Data Generation; ATSDR Toxicological Assistant chatbot
+Department of Health and Human Services,Service Delivery,"Unaccompanied Children Program Policy & Procedure Research Tool; Child Welfare Information Automated Inquiry System
+
+(Note: previously named ""Child Welfare Information Gateway OneReach Application""); ASPR TRACIE - Web search results improvement (prototyping stage)"
+Department of Homeland Security,Administrative Functions,Advance RPM Maintenance Operating Reporter (ARMOR); AI to generate testable synthetic data; API Security Vulnerability Technology
+Department of Homeland Security,Cybersecurity,Machine Learning Analysis Applied to Cyber Threat Hunt Data; Cyber Threat Detection; Malware Reverse Engineering
+Department of Homeland Security,Emergency Management,"Grants Manager Artificial Intelligence ChatBot; Semantic Search, Summarization, and Data/Spatial Visualization for NCR Watch COP/Dashboard; Technical Resource for Mitigation Programs"
+Department of Homeland Security,Government Benefits Processing,Extended Automated Name Harvesting (eANH); Individual Assistance Document Translation; PDF Intake (PDFI) for myUSCIS
+Department of Homeland Security,Health and Medical,MiX Phenotyping; MiX Indicators; One Health Threat Detection and Risk Assessment Platform (OH-TREADS) / Planner
+Department of Homeland Security,Human Resources,AI Resume & ATS App; AI-Assisted Resume Screening Tool; Customs Broker License Exam - Proctor Support
+Department of Homeland Security,Information Technology,Source Code Development Tool; Open Metadata; Speech Assist Virtual Interview Assistant
+Department of Homeland Security,International Affairs,The Advanced Trade Analytics Platform (ATAP)
+Department of Homeland Security,Law Enforcement,Smartphone Information Forensics Triage; Advanced Analytics for X-ray Images (AAXI); Real-Time Language Translation Services
+Department of Homeland Security,NULL,Video Analysis Tool (VAT); Mobile Language Translation Services; ICE Mobile Check-in Application
+Department of Homeland Security,Other,FLIR 280 HD
+Department of Homeland Security,Procurement and Financial Management,Border Infrastructure Center of Excellence AI (BICE AI); Spend Plan Analysis GPT; Purchase Card Worksheet Analysis
+Department of Homeland Security,Service Delivery,USCIS Document Translation Service; USCIS Speech Translation Service; Administrative & Productivity Support for IRC Resource Library
+Department of Homeland Security,Transportation,Automated Target Recognition (ATR) Developments for Standard Screening; Accessible Property Screening (APS) Checkpoint CT Prohibited Items (PI) Detection; Walk-Through Metal Detector (WTMD) Alternative Automated Target Recognition (ATR) Developments
+Department of Housing and Urban Development,Administrative Functions,Microsoft Copilot; Amazon Textract for automatic signature identification
+Department of Housing and Urban Development,Human Resources,CAISY - Workforce Training Conversation Simulator
+Department of Housing and Urban Development,NULL,Quantitative Text Analysis; Translation of Digital Media
+Department of Housing and Urban Development,Other,"Counterparty Risk Anomaly Detection; Automated Draft Narrative Reports
+
+Previously ""Automating Draft Counterparty Credit Narrative Reports""; have since expanded to general enterprise use."
+Department of Housing and Urban Development,Procurement and Financial Management,Subledger Data Quality Machine Learning
+Department of Housing and Urban Development,Service Delivery,Voice of the Customer; Email Assistant; FHA Resource Center Chatbot
+Department of Justice,Administrative Functions,Adobe Suite Applications; Bloomberg Government; Federal Docket Management System
+Department of Justice,Cybersecurity,Cybersecurity Defense Tools; Exiger Supply Chain Risk Management - DDIQ Research Engine; Exiger Supply Chain Risk Management - DDIQ Due Diligence Analytics
+Department of Justice,Energy and the Environment,Veritone
+Department of Justice,Government Benefits Processing,Call Center Management and Service Delivery Support
+Department of Justice,Health and Medical,ASCVD (Atherosclerotic Cardiovascular Disease) Risk Estimator; Automated Medication Dispensing Cabinet; Community Treatment Pipeline Screening
+Department of Justice,Human Resources,Percipio Skillsoft; Automated Staffing Tool; Pathfinder
+Department of Justice,Information Technology,Alation Data Catalog; Azure Data Factory; Azure Zen 2 Storage
+Department of Justice,Law Enforcement,Airlines Travel Intelligence Program; Unmanned Aerial Systems (UAS); Axon FUSUS (via HIDTA partners)
+Department of Justice,NULL,Coinbase; LexisNexis Babel Street; Body Worn Camera (BWC) Audio-Video Software AI Tools
+Department of Justice,Procurement and Financial Management,Dun & Bradstreet Business Establishments Data; National Insurance Crime Bureau ISO ClaimSearch; Southwest Border Transaction Record Analysis Center (SWBTRAC)
+Department of Justice,Science,Image processing
+Department of Justice,Service Delivery,ServiceNow; National Instant Criminal Background Check System; Aztec Learning Software
+Department of Justice,Transportation,JPATS Mobile App (Biometrics)
+Department of Labor,Administrative Functions,Electronic Records Management; Generative AI AssistantI  ( AI Center); Note Taking Bot
+Department of Labor,Cybersecurity,PII Redaction
+Department of Labor,Government Benefits Processing,Automatic Document Processing
+Department of Labor,Human Resources,Hololens; Worker PLUS Microsimulation Program
+Department of Labor,NULL,Determine Occupation Codes from Text (NIOCCS); Claims Document Processing; Website Chatbot Assistant
+Department of Labor,Other,Language Translation; Audio Transcription; AI Headset
+Department of Labor,Other - Applied Mathematical Sciences,"OEWS Occupation Autocoder; Scanner Data Product Classification; Expenditure Classification 
+Autocoder"
+Department of Labor,Service Delivery,Text to Speech Conversion; Call Recording Analysis; Workforce Recruitment Program (WRP) Website Chatbot Assistant
+Department of State,Administrative Functions,AI-Augmented Declassification Review; BudgetChat AI Tool; Property and Procurement Analytics
+Department of State,Cybersecurity,RegScale
+Department of State,Emergency Management,Live Consular AI Language Augmentation (LCALA) - OCS/ACS Pilot
+Department of State,Health and Medical,Electronic Health Record AI Enhancements
+Department of State,Human Resources,Rosie Chat Bot; Database for Arrivals
+Department of State,Information Technology,Data.State Analytics and AI Funhouse; AI Research Engine (AIRE); PFCS Proving Ground
+Department of State,International Affairs,FA.gov PII Picker; Integrated Country Strategy (ICS) Turbo; FA.gov RedactAid
+Department of State,Law Enforcement,Diplomatic Security - Legal Instruction Unit
+Department of State,NULL,FOIA Web ML Document Indexer; Travel.State.Gov (TSG) Enhanced Search and Chatbot; Travel.state.gov (TSG) Content Refinement with AI Text Editor
+Department of State,Other,AI Input in Translation; Automatic Detection of Authentic Material; Creating Persistent Virtual Reality Personas for Dynamic Training
+Department of State,Procurement and Financial Management,Within Grade Increase Data Extraction Automation; DS-5528 Promissory Note Automation; StateInsight
+Department of State,Service Delivery,Evaluating Customer Feedback and Sentiments with AI; Consular Affairs FaceVACS; Natural Language Processing (NLP) for Foreign Assistance Appropriations Analysis
+Department of Transportation,Administrative Functions,USDOT Compliance Plan for OMB Memorandum M-24-10 (September 2024); Advanced Research and Testing (ART) Network; AI Operations Laboratory (OPSLAB)
+Department of Transportation,Transportation,Certified Professional Controller (CPC) On-Board Success Evaluator; Automated Delay detection using voice processing; Technical Operations Predictive Maintenance
+Department of Veterans Affairs,Administrative Functions,VAHC CRM- Veteran Self-Service; Compliance Made Easy; AI Personal Assistance POC
+Department of Veterans Affairs,Cybersecurity,Cyber Authorization Memo Generation; Forescout: AI Behavioral Anomaly Detection w/ Automated Enforcement; CSOC AI Analyst Accelerator (Andesite AI)
+Department of Veterans Affairs,Government Benefits Processing,Service Period Validator (SPV) POC; Claims Processing Automation Quality Auditor POC; Exam Verification Agent
+Department of Veterans Affairs,Health and Medical,Clinical AI Agent; VA AI Assist; Summarization of Clinical Data
+Department of Veterans Affairs,Human Resources,Employee Transactions for HR Decision-Making; EEO Consultation and Guidance; Nursing Career Path Tool
+Department of Veterans Affairs,Information Technology,VA VoiceBot for Call Center Modernization; E2 HelpBot; ESD-Predictive Intelligence
+Department of Veterans Affairs,Law Enforcement,Verkada Camera - OSLE; Xtract WDS - OSLE; Evolv WDS - OSLE
+Department of Veterans Affairs,NULL,XtractOne; Appointment Comments Categorization; SafePointe WDS - OSSO
+Department of Veterans Affairs,Other,Lexis+; Billing Claims Prediction; Augmented Reality and Virtual Museum
+Department of Veterans Affairs,Procurement and Financial Management,Claims Adjudication and Financial Decision-Making; Artificial Intelligence Assisted Procurement Tools (AIAPT); SAC AI tools to automate application processing and data reporting
+Department of Veterans Affairs,Science,PestScore VA: AI-Driven Pest Risk Forecasting; Automated AI review for Competitive Procedures
+Department of Veterans Affairs,Service Delivery,Natural Language Online Workflow (NOW); Modeling to Learn (MTL); Federal EHR End User Peer Support Chatbot
+Department of the Interior,Administrative Functions,Everlaw AI Assistant for Responsive Review; CHS Q Business AI Assistant (theKraken); RUDD AI Development of a Small Language Model for Land Use Planning Decisions Consolidation
+Department of the Interior,Emergency Management,Use of AI to Enhance Flash Flood Forecast Tool [2024 Inv#WO0000000110323]; Wildfire Risk Assessment & Predictive Modeling; Machine learning in remote sensing-based wildfire and natural resource risk assessments
+Department of the Interior,Energy and the Environment,ROV Smart Touch Subsea Pipeline Inspections; Level 1 Survey Report Corrosion Level Classification; Well Activity Report Classification
+Department of the Interior,Information Technology,"User guides/training provided in chat form; Integration of AI, specifically CoPilot for GitHub,  for BTFA Software Development Life Cycle Process for DME and O&M applications."
+Department of the Interior,Law Enforcement,
+Department of the Interior,NULL,Data Extraction Using MS Power Automate AI Functionality [2024 INV#WO0000000110500]; Liable Party Research [2024 INV#WO0000000110496]; I-NEPA System: Leveraging Artificial Intelligence (AI) for Enhanced Efficiency [2024 INV# WO0000000111250]
+Department of the Interior,Other,Telemetry Analysis Learning Algorithm (TALA); Aveva Predictive Analytics (APA); FOIA Record Pre-Review Tool
+Department of the Interior,Procurement and Financial Management,Office of Grants Management (PGM) Grants Utility Tool; FBMS UPC Chatbot
+Department of the Interior,Science,Bird Nest Detection [2024 Inv#WO0000000110506]; Remote Sensing Coastal Change - Shoreline Change; Development of a computer vision model to monitor for early detection of habitat loss across the landscape. [2024 INV#DOI-65]
+Department of the Interior,Service Delivery,General Land Office Records  Modernization; Assessment Inventory and Monitoring (AIM) Chatbot; AI-Powered Wildlife Monitoring on National Wildlife Refuges
+Department of the Interior,Transportation,Improving recreation opportunities and access to public lands through machine learning and transportation planning
+Department of the Treasury,Administrative Functions,Narrative Summary and Thematic Analysis; Survey Analysis; eDiscovery Software
+Department of the Treasury,Human Resources,Research / Discovery on GenAI Product for HR; Employee Resource Center (ERC) Chatbot; GenAI for Low Code Platform
+Department of the Treasury,Information Technology,OCC.Chat; OCC.InfoAssist; OCC Guidance Summarization
+Department of the Treasury,NULL,Volunteer Income Tax Assistance (VITA) Generative AI Chatbot Proof of Concept; Digital Forensics Chatbot for IRS Employees; Generative AI for Form 1040X: Support Tool for Amended Returns (STAR)
+Department of the Treasury,Procurement and Financial Management,Sub-Asset Maintenance Model; Ink and Paper Consumption Forecast (IPCF); Inventory Replenishment Forecast
+Department of the Treasury,Science,Using Text Summarization for Open-Ended Survey Responses; Programmatic Access to LLMs via API; NCCBR Data Validation Pilot
+Department of the Treasury,Service Delivery,Rulemaking Comment Analytics; Regulatory Rule Analysis; Public Information Analysis
+Election Assistance Commission,Administrative Functions,Internal Generative AI Tools for Staff Productivity; Grants Lifecycle Application System; Routing emails from shared inboxes
+Election Assistance Commission,Service Delivery,AI Answers in Clearinghouse Network
+Environmental Protection Agency,Administrative Functions,Preparation of Brownfields Success Stories; Microsoft Power Automate (custom document processing model); Summarize and draft response to comments
+Environmental Protection Agency,Cybersecurity,CUI Marking Tool
+Environmental Protection Agency,Energy and the Environment,Using machine learning methods to analyze drivers of water quality
+Environmental Protection Agency,Human Resources,SF182 Form and Policy Assistant
+Environmental Protection Agency,Information Technology,Helpdesk chat assistant for common data system tasks; OPP Document Data Extraction
+Environmental Protection Agency,Law Enforcement,FFEO TSCA investigation into privatized military housing property management companies; Briefcam; AI-Enhanced Facility Finder
+Environmental Protection Agency,NULL,Energy Star Awards Application Profile Drafting; Natural Gas Star Videos; Transitioning historical help desk knowledge to new help desk software
+Environmental Protection Agency,Science,Streamflow Duration Assessment Modeling; Living Literature Review: Semi-automated Literature Screening
+Environmental Protection Agency,Service Delivery,AI Assistants in Esri Tools; RelativityOne Gov aiR; Semantic search of qualitative data
+Farm Credit Administration,Administrative Functions,User training in agency learning management system
+Farm Credit Administration,Other,Loan information retrieval; Examination knowledge assistant
+Federal Communications Commission,Information Technology,AI-Enhanced ULS Reverse Engineering; ECFS Comment Analytics Deduplication Services (CADS); Comment Legal Analysis & Review Assistant
+Federal Deposit Insurance Corporation,Administrative Functions,Goals and Workload Assumptions; CFOO Admin Chatbot; Corporate Impact Analysis Object
+Federal Deposit Insurance Corporation,Human Resources,Automatically-Scored Writing Assessment (AWA); FDIC Staffing Model; Criminal Background Investigation
+Federal Deposit Insurance Corporation,Information Technology,Knowledge Article Generation; Immersive Learning; AI Assisted Data Collection
+Federal Deposit Insurance Corporation,Law Enforcement,OIG computer forensics investigation tools.
+Federal Deposit Insurance Corporation,NULL,Plain Language Policy Assistant; Student Monitoring; Plagiarism Detection
+Federal Deposit Insurance Corporation,Other,Compliance Risk Monitoring; Pre-Examination Planning Monitoring; HMDA (Home Mortgage Disclosure Act) Outlier Screen
+Federal Deposit Insurance Corporation,Procurement and Financial Management,FDIC Predictive Budget Analysis; CFOO Travel Chatbot; CFOO Transactional Data Analysis
+Federal Energy Regulatory Commission,Energy and the Environment,Summarization & Policy Analysis for Regulatory Comments (originally Leverage AI in the Rulemaking Process Use Case); Improve Safety Inspections Use Case; Enhance Market Surveillance and Fraud Detection Use Case
+Federal Energy Regulatory Commission,Other,AI Enabled Assistant Legal Research
+Federal Housing Finance Agency,Administrative Functions,LexisNexis; WestLaw; Mathematical formula transcription using Commonlook Online
+Federal Housing Finance Agency,Cybersecurity,Phishing Email Identification; Security and network monitoring using Cisco Identify Services engine; Security and Compliance in file sharing and collaboration using Kiteworks
+Federal Housing Finance Agency,Information Technology,"Neural Networks for FHFA Modeling Analytics Platform (FMAP); Virtual Desktop using Citrix; Analytics, Indexing, and Anomaly Detection for Data Management on SQL Server"
+Federal Housing Finance Agency,NULL,"Public Comments Summarization and Topic Classifications Pilot Project; Analytics,, Search, Queries and LLM integration for data management on Oracle; Python modules to support AI/ML"
+Federal Housing Finance Agency,Procurement and Financial Management,Virtual Acquisition Office (VAO) Ally
+Federal Reserve Board,Human Resources,Virtual Benefits Assistant
+Federal Reserve Board,Information Technology,PDF Optical Character Recognition (Text); PDF Optical Character Recognition (Images)
+Federal Reserve Board,Law Enforcement,Body Worn Cameras Data Management System
+Federal Reserve Board,Other – Economic & Financial,Economic Trend Modeling; Stock Market Analysis; Commercial Real Estate Index
+Federal Trade Commission,Information Technology,Analytic Sandbox
+Federal Trade Commission,Law Enforcement,Automatic PSC Classification; Group Duplicate Complaints; Word Cloud
+Federal Trade Commission,Other,Chatbot; Developer Productivity; Microsoft 365 Copilot
+General Services Administration,Administrative Functions,ASSIST ECF Autoclassification and Summary; Enterprise Management Program Management Office Chatbot; Public Comments Analysis
+General Services Administration,Cybersecurity,Cybersecurity Chatbot; Elastic Machine Learning Threat Detection (Phase 1); Elastic Machine Learning Threat Detection (Phase 2)
+General Services Administration,Information Technology,Improve ASSIST Application Help; ASSIST Global Search and Inference; ReDux Toolkit
+General Services Administration,Other,Category Taxonomy Refinement Using NLP
+General Services Administration,Procurement and Financial Management,ASSIST Auto Copy and Summarize; Leveraging Retrieval Augmented Generation (RAG) AI to Power Outcome-Based Contracting; SINSpector: Using Generative AI to Enforce Scope and Compliance
+General Services Administration,Service Delivery,FAS Catalog Platform - Virtual Assistant; AI in Public Experience (PX) Contact Center Services Blanket Purchase Agreement (BPA); Login.gov: artificial intelligence technology used for detecting and mitigating fraud for remote unsupervised identity verification
+National Aeronautics and Space Administration,Administrative functions,Autonomous WAiting Room Evaluation (AWARE); OCFO External Performance Reporting; Using LLMS for Documents and Requirements Analysis
+National Aeronautics and Space Administration,Cybersecurity,Autonomous Network Security
+National Aeronautics and Space Administration,Emergency Management,Aerial AId: Visual data processing with AI in emergency scenarios for quick decision making
+National Aeronautics and Space Administration,Health and Medical,"AI Digital Assistants (HRP) [was ""Doc in a Box"" for Earth Independent Medical Operations (EIMO)]; Personal Health Information (PHI) AI Platform; Space Precision Health Foundation Model"
+National Aeronautics and Space Administration,Information Technology,Coupled Loads Analysis Research Assistant (CLARA); SVM Classification of Write-in Topics from MSD Customer Sat Survey; Software Issue Classification with LLM
+National Aeronautics and Space Administration,Law Enforcement,Intelligent Camera Analytics for Security and Operations
+National Aeronautics and Space Administration,NULL,Volcano SensorWeb
+National Aeronautics and Space Administration,Other (use other text field),Borescope Artificial Intelligence (BAI); AI-enabled Risk-Informed Assessment Selection (RIAS) tool; AI-Assisted Analysis Across the IV&V and Software Assurance Lifecycle
+National Aeronautics and Space Administration,Procurement and Financial Management,OCFO Credit Risk and Defaul Estimation Tool; OCFO President Budget Request RAG
+National Aeronautics and Space Administration,Science,Anomaly Detection and Precursor Identification in UAV flight data; Deep Learning for Flood Mapping (DELTA); Distributed Spacecraft Autonomy
+National Aeronautics and Space Administration,Service Delivery,Machine Learning for Entity Matching; Automated Data Normalization for Institutional Records; Automating Data Stewardship for Temporary Account Reconciliation
+National Aeronautics and Space Administration,Transportation,Autoresolver/Tailored Arrival Manager; Explainable and robust deep semi-supervised model for multi-class anomaly detection in flight data; Machine Learning Airport Surface Model: Airport Configuration Prediction
+National Archives and Records Administration,Other,Generative AI Solutions for Workplace Productivity (aka Gemini); A1 Museum AI Project; NARA@WORK Kendra Search
+National Credit Union Administration,Procurement and Financial Management,Machine Learning Data Validation; Supervisory Stress Testing; Risk Indicator Model
+National Endowment for the Arts,Cybersecurity,Managing Cybersecurity Controls
+National Endowment for the Arts,Information Technology,Managing Help Desk Tickets - Self Service
+National Endowment for the Arts,Service Delivery,"Categorizing Grant Subjects from Grant Applicants; External ""Public Facing"" Chatbot"
+National Indian Gaming Commission,Administrative Functions,LexisNexus; Adobe Photoshop AI (AI Plugin); Microsoft Copilot
+National Science Foundation,NULL,"ServiceNow GenAI ""Now Assist""; Budget Area Topic Classification Tool; AI voice over"
+National Transportation Safety Board,Administrative Functions,FOIAXpress AI assistant
+National Transportation Safety Board,Emergency Management,Dataminr
+National Transportation Safety Board,Other,Voice to text transcription
+National Transportation Safety Board,Service Delivery,Semantic Similarity Text Search
+Nuclear Regulatory Commission,Energy and the Environment,"Text Retrieval and Generation for NRC Staff Support; Support routine administrative tasks and enhancing communications; Unified, secure access to multiple advanced AI language models"
+Occupational Safety and Health Review Commission,Other,Westlaw Edge
+Office of Special Counsel,Government Benefits Processing,Copilot Studio
+Pension Benefit Guaranty Corporation,Cybersecurity,IT Security Monitoring; IT Security and Privacy Control Assessment
+Pension Benefit Guaranty Corporation,Government Benefits Processing,Pension Plan Summary Report Assistance; Analysis of Plan Benefits for Standard Terminations
+Pension Benefit Guaranty Corporation,Human Resources,AI-Assisted Training Development; Position Description Analysis and Consolidation
+Pension Benefit Guaranty Corporation,Information Technology,"Synthetic Data Generation; Intelligent, auto-generated meeting summaries, notes, and tasks; IT Service Management Virtual Agent and Automation"
+Pension Benefit Guaranty Corporation,Law Enforcement,AI-Assisted Recognition and Redaction for Legal/Litigation Matters
+Pension Benefit Guaranty Corporation,Procurement and Financial Management,AI-Assisted Contracting Content/Document Creation; Federal Accounting Statutes and Guidelines Alignment; Legislative and Regulatory Analysis / Automation (Actuarial/Financial)
+Pension Benefit Guaranty Corporation,Service Delivery,Media Content Generation
+Securities and Exchange Commission,Administrative Functions,Extracting data from FOIA request forms; Create description of documents for records management in sharepoint
+Securities and Exchange Commission,Cybersecurity,Evaluating Cybersecurity Alerts; Augmenting cyber threat alerts on the ACES platform with ACES's specific information.
+Securities and Exchange Commission,Human Resources,Training Conversation Tool
+Securities and Exchange Commission,Information Technology,Agentic Knowledge Base of Amazon Web Services Cloud Environment for the Securities and Exchange Commission (ACES); AI-enabled information collection and curation; AI-enabled information dissemination
+Securities and Exchange Commission,Law Enforcement,Single Event Insider Trading Analysis
+Securities and Exchange Commission,NULL,Comment Letter Review and Analysis; Forms Filed; Tailored Shareholder Report (TSR)
+Securities and Exchange Commission,Other,8-K Filing Solution; CF Staff Review Comments; Name Matching
+Securities and Exchange Commission,Service Delivery,"Large Language Model analysis for the Tips, Complaints and Referrals (TCR) system; Enhancing Analysis of SEC Web Engagement Trends Using AI; Identifying Citations of SEC Publications to Measure Market Impact"
+Small Business Administration,Administrative Functions,Internal OFO Chatbot Recommender; Amazon Q in Connect; Customer Response
+Small Business Administration,Cybersecurity,Security Team Productivity Enhancement; AI Resolution Notes Generation; AI Vulnerability Ticket Deduplication
+Small Business Administration,Information Technology,Office of Advocacy AI System-Prompt Suite; Predictive AIOps; Data Analysis and Visualization AI
+Small Business Administration,Service Delivery,Meeting Minutes Summary Tool; Business Development; Audit Green Book Classification
+Social Security Administration,Administrative Functions,PolicyNet Plain Language Search Engine
+Social Security Administration,Cybersecurity,Application Observability Support; Digital Identity Verification Services
+Social Security Administration,Government Benefits Processing,Insight; Intelligent Medical Language Analysis Generation (IMAGEN); Duplicate Identification Process
+Social Security Administration,Health and Medical,Therapy Chatbot - Text-Based Mental Health Support for SSA Employees
+Social Security Administration,Human Resources,Training Interaction Simulator; Human Resource Chatbot; Training Audio and Video Generation
+Social Security Administration,Information Technology,Generative Artificial Intelligence (AI) for Analytic Insights; Agency Support Companion (ASC) chatbot; Data Governance Product (DGP) -  Data cataloging and predictive analysis of data assets.
+Social Security Administration,Other,Benefit and Earnings Public Use File
+Social Security Administration,Service Delivery,"SSA 800# Public Question & Answer Bot and OIG Hotline recording of fraud, waste and abuse.; Customer Insight Tool; AI Comment Analysis"
+Surface Transportation Board,Other,Copilot for Appian; RelativityOne
+Tennessee Valley Authority,Administrative Functions,Natural Reader; Copilot; ChatSPP
+Tennessee Valley Authority,Cybersecurity,Cisco ML
+Tennessee Valley Authority,Energy and the Environment,Extreme Load Analysis; Materials Intelligent Catalog Assistant; Vegetation Management
+Tennessee Valley Authority,Human Resources,AWS Transcribe
+Tennessee Valley Authority,Information Technology,Advanced Network Anomaly Detection; Perimeter Defense; AI-Enhanced Search
+Tennessee Valley Authority,Other,Westlaw

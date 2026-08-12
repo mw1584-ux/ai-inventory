@@ -1,0 +1,154 @@
+Agency Name,Bureau/Component,count
+Commodity Futures Trading Commission,DCR,1
+Commodity Futures Trading Commission,MPD,1
+Commodity Futures Trading Commission,DOD,1
+Department of Agriculture,Natural Resources and Environment,76
+Department of Agriculture,"Research, Education and Economics",22
+Department of Agriculture,Farm Production and Conservation,20
+Department of Agriculture,Marketing and Regulatory Programs,16
+Department of Agriculture,Food Safety,13
+Department of Commerce,NOAA,157
+Department of Commerce,Census,17
+Department of Commerce,USPTO,15
+Department of Commerce,ITA,9
+Department of Commerce,NTIA,8
+Department of Education,Federal Student Aid,6
+Department of Education,Office of Special Education and Rehabilitee Services,6
+Department of Education,Office of the Chief Information Officer,5
+Department of Education,Office of Postsecondary Education,5
+Department of Education,Office of Finance and Operations,5
+Department of Energy,PNNL - Pacific Northwest National Laboratory (SC43 OIM),40
+Department of Energy,NE INL - NE Idaho National Laboratory (NE),39
+Department of Energy,BNL - Brookhaven National Laboratory (SC43 OIM),34
+Department of Energy,EMLA - EM Los Alamos Field Site (EM),31
+Department of Energy,ORNL - Oak Ridge National Laboratory (SC43 OIM),25
+Department of Health and Human Services,HHS/NIH,124
+Department of Health and Human Services,HHS/CDC,103
+Department of Health and Human Services,HHS/FDA/CDER,40
+Department of Health and Human Services,HHS/ACF,26
+Department of Health and Human Services,HHS/CMS/CCIIO,20
+Department of Homeland Security,CBP,83
+Department of Homeland Security,ICE,51
+Department of Homeland Security,TSA,26
+Department of Homeland Security,USCIS,24
+Department of Homeland Security,FEMA,22
+Department of Housing and Urban Development,Office of Housing,3
+Department of Housing and Urban Development,Ginnie Mae,3
+Department of Housing and Urban Development,Office of the Chief Financial Officer (OCFO),2
+Department of Housing and Urban Development,Office of the Chief Information Officer,1
+Department of Housing and Urban Development,Office of the Chief Human Capital Officer,1
+Department of Justice,Department of Justice / FBI,50
+Department of Justice,Department of Justice / DEA,43
+Department of Justice,Department of Justice / ATF,34
+Department of Justice,Department of Justice / FBOP,32
+Department of Justice,Department of Justice / USMS,19
+Department of Labor,BLS,13
+Department of Labor,ETA,5
+Department of Labor,OSHA,5
+Department of Labor,OCIO,5
+Department of Labor,OWCP,3
+Department of State,CA,13
+Department of State,DT,12
+Department of State,NFATC,6
+Department of State,MGT,5
+Department of State,F/FAO,5
+Department of Transportation,FAA AJO,22
+Department of Transportation,FAA AVS,9
+Department of Transportation,OST,4
+Department of Transportation,FAA ANG,3
+Department of Transportation,CAIO,3
+Department of Veterans Affairs,VHA: Veterans Health Administration,253
+Department of Veterans Affairs,OIT: Office of Information & Technology,57
+Department of Veterans Affairs,VBA: Veterans Benefits Administration,27
+Department of Veterans Affairs,"OALC: Office of Acquisitions Logistics, and Construction",6
+Department of Veterans Affairs,"OSP: Office of Operations, Security, and Preparedness",5
+Department of the Interior,USGS,187
+Department of the Interior,FWS,11
+Department of the Interior,SOL,8
+Department of the Interior,BOR,8
+Department of the Interior,BLM,7
+Department of the Treasury,Internal Revenue Service (IRS),61
+Department of the Treasury,Office of the Comptroller of the Currency (OCC),26
+Department of the Treasury,Bureau of the Fiscal Service (BFS),23
+Department of the Treasury,Office of Financial Research (OFR),7
+Department of the Treasury,Bureau of Engraving and Printing (BEP),5
+Election Assistance Commission,Grants Division,1
+Election Assistance Commission,All EAC divisions where staff elect to use approved tools,1
+Election Assistance Commission,Clearinghouse Division,1
+Election Assistance Commission,All EAC Divisions,1
+Environmental Protection Agency,OFA,9
+Environmental Protection Agency,OECA,7
+Environmental Protection Agency,OAR,7
+Environmental Protection Agency,Region 8,2
+Environmental Protection Agency,Region 1,1
+Farm Credit Administration,NULL,3
+Federal Communications Commission,Wireless Telecommunications Bureau (WTB),3
+Federal Communications Commission,Office of Engineering and Technology (OET),1
+Federal Communications Commission,Enforcement Bureau (EB),1
+Federal Communications Commission,Wireline Competition Bureau (WCB),1
+Federal Deposit Insurance Corporation,Division of Resolutions and Receiverships,11
+Federal Deposit Insurance Corporation,Division of Finance,9
+Federal Deposit Insurance Corporation,Division of Depositor and Consumer Protection,6
+Federal Deposit Insurance Corporation,Division of Risk Management Supervision,5
+Federal Deposit Insurance Corporation,Corporate University,5
+Federal Energy Regulatory Commission,FERC,6
+Federal Housing Finance Agency,OCIO,10
+Federal Housing Finance Agency,OGC,2
+Federal Housing Finance Agency,DHMG,1
+Federal Housing Finance Agency,OCOO,1
+Federal Housing Finance Agency,DBR,1
+Federal Reserve Board,Division of Supervision and Regulation,21
+Federal Reserve Board,Division of Research and Statistics,5
+Federal Reserve Board,Division of Information Technology,4
+Federal Reserve Board,Division of Monetary Affairs,3
+Federal Reserve Board,Division of Management,1
+Federal Trade Commission,BCP/DCRO,12
+Federal Trade Commission,BC/BCP/OGC,2
+Federal Trade Commission,OCIO,1
+Federal Trade Commission,BE/BC/OCIO,1
+General Services Administration,NULL,49
+National Aeronautics and Space Administration,GSFC: Goddard Space Flight Center,227
+National Aeronautics and Space Administration,MSFC: Marshall Space Flight Center,44
+National Aeronautics and Space Administration,JPL: Jet Propulsion Laboratory,43
+National Aeronautics and Space Administration,LaRC: Langley Research Center,38
+National Aeronautics and Space Administration,ARC: Ames Research Center,34
+National Archives and Records Administration,National Archives & Records Administration (NARA),14
+National Credit Union Administration,NCUA|ONES,5
+National Credit Union Administration,NCUA|E&I,1
+National Endowment for the Arts,NEA,4
+National Indian Gaming Commission,NULL,5
+National Science Foundation,"Directorate for Technology, Innovation, and Partnership (TIP)",4
+National Science Foundation,Office of Integrative Activities (OIA),3
+National Science Foundation,Directorate of Engineering (ENG),2
+National Science Foundation,Office of Information and Resource Management (OIRM),2
+National Science Foundation,Office for Legislative and Public Affairs (OLPA),2
+National Transportation Safety Board,NTSB,4
+Nuclear Regulatory Commission,NRC,4
+Occupational Safety and Health Review Commission,OSHRC,1
+Office of Special Counsel,OSC,1
+Pension Benefit Guaranty Corporation,ONR,2
+Pension Benefit Guaranty Corporation,OPEA / PRAD,2
+Pension Benefit Guaranty Corporation,OIT/Privacy,1
+Pension Benefit Guaranty Corporation,PBGC Enterprise,1
+Pension Benefit Guaranty Corporation,OPEA / COLAD,1
+Securities and Exchange Commission,Division of Examinations (EXAMS),10
+Securities and Exchange Commission,Office of Information Technology (OIT),10
+Securities and Exchange Commission,Office of the Chief Data Officer (OCDO),5
+Securities and Exchange Commission,Division of Enforcement (ENF),5
+Securities and Exchange Commission,"Office of the Chief Data Officer (OCDO), Office of Information Technology (OIT), Office of the Advocate for Small Business Capital Formation (OASB)",3
+Small Business Administration,OCIO: Office of the Chief Information Officer,17
+Small Business Administration,OFO: Office of Field Operations,9
+Small Business Administration,Advocacy: Office of Advocacy,2
+Small Business Administration,OCPL: Office of Communications & Public Liaison,2
+Small Business Administration,OCFO: Office of the Chief Financial Officer,2
+Social Security Administration,Chief Information Officer,12
+Social Security Administration,"Chief Information Officer, Analytics and Improvements",8
+Social Security Administration,Human Resources,4
+Social Security Administration,"Chief Information Officer, Disability Information Systems",4
+Social Security Administration,"Chief Information Officer, Digital Customer Solutions",3
+Surface Transportation Board,Surface Transportation Board,2
+Tennessee Valley Authority,Information Technology,16
+Tennessee Valley Authority,Commercial Energy Solutions,8
+Tennessee Valley Authority,Enterprise Analytics & Innovation,4
+Tennessee Valley Authority,Generation Projects & Fleet Services,3
+Tennessee Valley Authority,Supply Chain,2
