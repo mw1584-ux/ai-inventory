@@ -1,0 +1,70 @@
+git config user.name "Your Name"
+git config user.email "you@example.com"YEAR 2023: 2023_consolidated_ai_inventory_raw.csv
+ rows=710 cols=10
+ top missing columns:
+  Source_Code: 693
+  Office: 514
+  Techniques: 395
+  Development_Stage: 321
+  Agency: 76
+ top unique counts:
+  Use_Case_ID: 710
+  Title: 707
+  Summary: 705
+  Techniques: 121
+  Agency: 86
+  Office: 62
+  Development_Stage: 27
+  Department: 21
+  Department_Code: 21
+  Source_Code: 18
+
+YEAR 2024: 2024_consolidated_ai_inventory_raw_v2.csv
+ rows=2133 cols=62
+ top missing columns:
+  If Other, please explain..5: 2127
+  If No, please explain.: 2065
+  If Other, please explain..7: 2062
+  If Other, please explain..8: 2050
+  If Other, please explain..6: 2045
+ top unique counts:
+  Use Case Name: 2044
+  What is the intended purpose and expected benefits of the AI?: 2006
+  Describe the AI system’s outputs.: 1686
+  Describe any agency-owned data used to train, fine-tune, and/or evaluate performance of the model(s) used in this use case.: 630
+  Date Initiated: 460
+  Date when Acquisition and/or Development began: 411
+  Date Implemented: 342
+  Provide the Procurement Instrument Identifier(s) (PIID) of the contract(s) used.: 332
+  Bureau: 326
+  System Name: 323
+
+YEAR 2025: 2025_individually_reported_AI_use_cases.csv
+ rows=3611 cols=36
+ top missing columns:
+  If the data is required to be  publicly disclosed as an  open government data asset,  provide a link to the entry on the Federal Data Catalog.: 3404
+  If publicly available, provide  the link to the AI use case’s associated Privacy Impact Assessment (PIA).: 3376
+  Has an AI impact assessment been completed for this AI use case? 
+
+
+
+Practice: Complete AI Impact Assessment: 3375
+  What are the potential  impacts of using the AI for  this particular use case and  how were they identified?    
+
+
+
+Subpractice: Complete AI  Impact Assessment: 3364
+  If the code is open source, provide the link for the  publicly available source  code.: 3362
+ top unique counts:
+  Use Case Name: 3525
+  Use Case ID
+
+[Agency Abbrev.] – [#]: 2893
+  What problem is the AI intended to solve?: 2880
+  What are the expected benefits and positive outcomes from the AI for an agency’s mission and/or the general public?: 2739
+  Describe the AI system’s outputs.: 2501
+  Describe any data used to  train, fine-tune, and/or  evaluate performance of the  model(s) used in this use  case.: 855
+  Date when AI use case became operational or the pilot’s start date: 677
+  Vendor(s) Name: 426
+  Bureau/Component: 402
+  System(s) Name: 382
